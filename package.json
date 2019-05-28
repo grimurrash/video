@@ -1,0 +1,50 @@
+{
+    "app_name": "smarteyes",
+    "dependencies": {
+        "express": "^4.16.4",
+        "form-data": "^2.3.3",
+        "lowdb": "^1.0.0",
+        "mkdirp": "^0.5.1",
+        "node-macaddress": "^0.2.4",
+        "node-onvif": "^0.1.7",
+        "node-rtsp-stream": "0.0.4",
+        "nw": "^0.35.5",
+        "ps-node": "^0.1.6",
+        "request": "^2.88.0",
+        "socket.io": "^2.2.0",
+        "sweetalert2": "^7.33.1",
+        "tree-kill": "^1.2.1"
+    },
+    "main": "pages\\login.html",
+    "name": "smarteyes",
+    "node-main": "settings.js",
+    "nodejs": true,
+    "webexe_settings": {
+        "blacklist": "",
+        "custom_script": "",
+        "download_dir": "",
+        "export_dir": "output",
+        "force_download": false,
+        "linux-x32": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.35.5",
+        "output_pattern": "",
+        "sdk_build": true,
+        "uncompressed_folder": false,
+        "whitelist": "",
+        "windows-x32": false,
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "exe_icon": "pages\\assets\\img\\logo.png",
+        "fullscreen": false,
+        "id": "sev",
+        "position": "center",
+        "resizable": true,
+        "show": true,
+        "show_in_taskbar": true,
+        "title": "sev",
+        "visible": true
+    }
+}
