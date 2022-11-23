@@ -11,7 +11,7 @@
         "nw": "^0.35.5",
         "ps-node": "^0.1.6",
         "request": "^2.88.0",
-        "socket.io": "^2.2.0",
+        "socket.io": "^2.5.0",
         "sweetalert2": "^7.33.1",
         "tree-kill": "^1.2.1"
     },
